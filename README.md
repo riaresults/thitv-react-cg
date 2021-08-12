@@ -26,8 +26,8 @@ all the fields and the list should be updated.
 
 - For the project boilderplate i used [Create React-App](https://reactjs.org/docs/create-a-new-react-app.html).
 - The option for the project architecture is the [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/).
-- I used typescript in order to improve the type guard and code readability, for theming and styling.
-- For styling and theming i used (styled-components)[https://styled-components.com/] because it helps keep the concerns of styling and element architecture separated and make components more readable.
+- I used typescript in order to improve the type guard and code readability.
+- For styling and theming i used (styled-components)[https://styled-components.com/] because it helps keep the concerns of styling and element architecture separated and makes the components more readable.
 - For faster layout development i added (boostrap-grid)[https://getbootstrap.com/docs/5.0/layout/grid/] to the project
 - The logic of the books list is handled inside the reducer to have a more predictable and maintainable state architecture
 
